@@ -4,9 +4,9 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称 #TODO: 你博客的名称
+heroText: Nora #TODO: 你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语 #TODO: 你可以在这里放置你的口号与标语
+tagline: 宁愿做过了后悔，也不要错过了后悔！保持可爱！加油！ #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
